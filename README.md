@@ -1,2 +1,2 @@
 # summer-of-algorithms
-As Hao Zhugan and Zhang Shuai bet learning witness
+As Hao Zhugan and OhtoAi1024 bet learning witness
